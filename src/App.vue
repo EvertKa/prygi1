@@ -7,28 +7,21 @@
         BIOLAGUNEVAD KÖÖGIJÄÄTMED
       </DisclosureButton>
       <DisclosurePanel class="text-gray-800 p-2">
-        Biojäätmete (biolagunevate köögijäätmete) mahutisse võib panna:
-riknenud toit ja toidujäätmed
-tahked riknenud puu- ja köögiviljad, nende koored
-liha- ja kalajäätmed, kalaluud
-muna- ja pähklikoored
-pabermassist munarestid
-majapidamispaber, pabersalvrätid
-kohvipaks, paberfiltrid
-lõikelilled, ilma potita toataimed
-
-Biojäätmete mahutisse ei sobi:
-tavalised kilekotid, toidupakendid
-kassiliiv, tuhk, suitsukonid
-vedelad toidujäägid, toiduõli
-suured kondid
-kiletatud või vahatatud pinnaga või kileaknaga paberkotid
-küpsetuspaber
-vanad ravimid
-mähkmed, hügieenisidemed
-tolmuimejakotid
-kunstlilled, küünlad
-lille- ja salatipotid
+        <div class="">
+            <h1 class="font-bold">Tohib panna:</h1>
+            <li>riknenud toit ja toidujäätmed</li>
+            <li>muna- ja pähklikoored</li>
+            <li>pabermassist munarestid</li>
+            <li>liha- ja kalajäätmed</li>
+            <li>riknenud puu- ja köögiviljad</li>
+            <li>majapidamispaber</li>
+            <br>
+            <h1 class="font-bold text-red-500">ei tohi panna:</h1>
+            <li>suitsukonid</li>
+            <li>mähkmed</li>
+            <li>vedelad toidujäägid</li>
+            <li>kassiliiv</li>
+        </div>
       </DisclosurePanel>
     </Disclosure>
     </div>
@@ -38,6 +31,8 @@ lille- ja salatipotid
         BIOLAGUNEVAD AIAJÄÄTMED
       </DisclosureButton>
       <DisclosurePanel class="text-gray-800 p-2">
+        <div>
+            <h1></h1>
         Biolagunevate aiajäätmete mahutisse võib panna:
 kokku riisutud lehed
 pügatud muru
@@ -51,6 +46,7 @@ taimede sidumiseks kasutatud sünteetiline nöör
 katteloor, linnuvõrk
 kilemultš
 istutuspotid
+    </div>
       </DisclosurePanel>
     </Disclosure>
     </div>
