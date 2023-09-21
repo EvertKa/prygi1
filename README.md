@@ -51,5 +51,5 @@ Tegemist on riikliku tellimuse täitmisega. Platvormi on võimalik edasi arendad
 
 
 
-### Reede, 22. septmeber
+### Reede, 22. september
 - 
